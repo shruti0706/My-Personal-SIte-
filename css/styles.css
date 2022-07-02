@@ -16,12 +16,19 @@ h2{
     color: #66BFBF;
   font-size: 2.2rem;
   font-weight: normal;
-padding-bottom: 10px;
+padding-bottom: 8px;
 }
 h3{
   color: #11999E;
 }
-
+.project-link{
+  color: #11999E;
+font-weight: bold;
+font-size: 1.25rem;
+}
+.project-link:hover{
+  color: pink;
+}
 span{
   text-decoration: underline;
 }
@@ -46,12 +53,12 @@ hr{
 }
 
 .simg{
-  width: 25%;
+  width: 20%;
   float: left;
 padding-right: 20px;
 }
 .front{
-  width: 25%;
+  width: 20%;
   float: right;
   padding-left: 20px;
 }
@@ -84,13 +91,13 @@ padding-right: 20px;
 }
 .top{
   background-color: #B8FFF9;
-
   padding-top:  100px;
 }
 
 .middle-container{
   margin: 100px 0;
 }
+
 .bottom-container{
   background-color: #66bfbf;
   padding: 50px 0 20px;
@@ -102,7 +109,7 @@ padding-right: 20px;
 .top-cloud{
   position:absolute;
   right: 300px;
-  top: 40px;
+  top: 40px;x
 }
 .bottom-cloud{
   position: absolute;
